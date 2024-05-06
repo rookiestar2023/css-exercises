@@ -1,5 +1,10 @@
-.classone {
+.classone,
+.classtwo {
     background-color: lightpink;
     color: black;
     font-family: Verdana, DejaVu sans, sans-serif;
+}
+#number2 {
+    color: blue;
+    font-size: 36px;
 }
