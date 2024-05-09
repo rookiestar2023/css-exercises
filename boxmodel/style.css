@@ -1,0 +1,25 @@
+* {
+    font-size: 25px
+}
+
+.box-one {
+    box-sizing: content-box;
+    background-color: lightcoral;
+    padding: 10px;
+    margin: 10px;
+    height: 60px;
+    width: 60px;
+    text-align: center;
+    border: 5px solid purple;
+}
+
+.box-two {
+    box-sizing: border-box;
+    background-color: lightblue;
+    padding: 10px;
+    margin: 10px;
+    height: 60px;
+    width: 60px;
+    text-align: center;
+    border: 5px solid black;
+}
